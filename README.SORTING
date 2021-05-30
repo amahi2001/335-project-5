@@ -1,0 +1,12 @@
+This program allows the user to create a vector of random values, 
+abd sort that vector using multiple sorting algorithms such as
+heapsort, mergesort, insertion sort, and different variants of quicksort. 
+
+In the Header file of the program, most of the sorting functions and their 
+helper functions now have integrated comparison paramters which allow the 
+fucntions to compare the values in the vector to determine whether velues are
+less than or greater than, improving the effeciency of sorting. 
+
+A timer also keeps track of how long the sorting algorithms take to sort 
+the vectors in nanoseconds so the user can compare their runtumes to 
+differentiate the speeds of the algorithms.
